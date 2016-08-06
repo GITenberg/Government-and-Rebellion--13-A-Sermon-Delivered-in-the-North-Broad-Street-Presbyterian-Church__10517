@@ -1,0 +1,30 @@
+_repo: Government-and-Rebellion--13-A-Sermon-Delivered-in-the-North-Broad-Street-Presbyterian-Church__10517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, E. E. (Ezra Eastman)
+    alias: Adams, Ezra Eastman
+    birthdate: 1813
+    deathdate: 1871
+    gutenberg_agent_id: '3569'
+    url: http://www.gutenberg.org/2009/agents/3569
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Providence and government of God -- Christianity -- Sermons'
+- !lcsh 'Bible. Proverbs, XVII, 11 -- Sermons'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Religious aspects --
+  Sermons'
+- !lcsh 'United States -- Politics and government -- 1861-1865 -- Sermons'
+- GITenberg
+title: "Government and Rebellion\r\nA Sermon Delivered in the North Broad Street Presbyterian\
+  \ Church, Sunday Morning, April 28, 1861"
+url: http://www.gutenberg.org/ebooks/10517
