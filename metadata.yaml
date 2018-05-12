@@ -1,5 +1,8 @@
 _repo: Government-and-Rebellion--13-A-Sermon-Delivered-in-the-North-Broad-Street-Presbyterian-Church__10517
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Adams, E. E. (Ezra Eastman)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3569'
     url: http://www.gutenberg.org/2009/agents/3569
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10517#Government-and-Rebellion--13-A-Sermon-Delivered-in-the-North-Broad-Street-Presbyterian-Church_
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
